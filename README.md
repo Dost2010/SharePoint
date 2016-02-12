@@ -1,5 +1,8 @@
 # SharePoint client side widgets
 The repository contains various client side code useful to embed in your portals/teamsite or any other project. Suggestion for building new client side widgets are welcome!
+
+
+
 1. TypeAhead.html  --> This is angular + bootstrap code to typeahead(Autofill) text box which read data from the sharepoint list. 
 follow the following step in order to embed this code in yoru sharepoint pages.
 
